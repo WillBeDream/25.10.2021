@@ -61,6 +61,7 @@ int main()
 	arr = push_row_back(arr, rows, cols);
 	cout << "Строка добавлена.\n";
 	clear(arr, rows, cols);
+
 }
 
 void full_rand(int arr[], int size)
